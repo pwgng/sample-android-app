@@ -39,6 +39,8 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.activity)
+    implementation(libs.androidx.datastore)
+    implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.material)
     implementation(libs.androidx.constraintlayout)
     testImplementation(libs.junit)
